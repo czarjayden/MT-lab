@@ -1,0 +1,40 @@
+.text1{
+    color: rgb(5, 5, 5);
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+
+.heading{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-style: italic;
+font-weight: 700;
+
+
+}
+
+body{
+    background-image:url("./pics/luca-bravo-ii5JY_46xH0-unsplash.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 20vh;
+    ;
+}
+
+.mypic {
+        width: 200px;
+        height: 200px; 
+        border-radius: 50%; 
+        overflow: hidden; 
+    }
+
+.mypic img {
+        width: 100%; 
+        height: 100%;
+        object-fit: cover; 
+    }
+    
+
+   
